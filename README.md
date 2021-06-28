@@ -33,3 +33,7 @@ Settlement Map: \
 [Satellite Imagery of East Java](https://drive.google.com/drive/folders/10rZDnDeag89sAxfC45GBHZv020hjsukk?usp=sharing) \
 [Settlement Map of Central Java](https://drive.google.com/drive/folders/1sn5Z0CZJEAwSNu4rX48l_5os4GtKnd5X?usp=sharing) \
 [Settlement Map of East Java](https://drive.google.com/drive/folders/1vEiK3WdocpL39xLpLHkuAAN7_fTEOhq0?usp=sharing) \
+\
+[Correlation Calculation of Central Java](https://docs.google.com/spreadsheets/d/1vXJYdGS_VkDr-l-aVLR8klwmHu66geeJkUEain9LybU/edit?usp=sharing) \
+[Correlation Calculation of East Java](https://docs.google.com/spreadsheets/d/1Ohxnv8PwgMb_r2fc1zwS5nGZNZUghU5QcNq0STtOrzc/edit?usp=sharing) \
+[Correlation Calculation of Central Java](https://docs.google.com/spreadsheets/d/1Bva8yi-AfyBZLCyJ_S8Gyq0RGv4BCN8I0OV-XMaknLo/edit?usp=sharing)
