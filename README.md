@@ -1,6 +1,6 @@
 # Population Density vs Disease
 This repository contains the implementation of our paper*: \
-M. A. Mutasodirin, R. D. Rizqullah, A. Setiyoko, and A. M. Arymurthy, *"The Use of Settlement Mapping to Improve Problem Modelling in Spatial Analysis of an Area Against Disease Risk: Case Study on Central andEast Java Indonesia"*, 2021. \
+M. A. Mutasodirin, R. D. Rizqullah, A. Setiyoko, and A. M. Arymurthy, *"The Use of Settlement Mapping to Improve Problem Modelling in Spatial Analysis of an Area Against Disease Risk: Case Study on Central and East Java Indonesia"*, 2021. \
 \*Being submitted into: The 6th International Workshop on Big Data and Information Security (IWBIS) 2021.
 
 # Abstract
