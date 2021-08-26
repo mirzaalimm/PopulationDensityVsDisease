@@ -40,5 +40,8 @@ Settlement Map: \
 \
 Note: In our study, we only processed two provinces. We may give more provinces of Java island later, in this repository, to help people conducting research. Feel free to contact me via email: mirza.alim.m@gmail.com.
 
+# How to Count Pixels
+An example on how to count image pixels is available [Here](https://github.com/mirzaalimm/PopulationDensityVsDisease/blob/main/Counting%20Pixels.ipynb)
+
 # License
 MIT
