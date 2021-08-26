@@ -10,23 +10,25 @@ In disease risk spatial analysis, many researchers especially in Indonesia are s
 population density, settlement density, settlement map, disease risk, indonesia.
 
 # Data
+Settlement Map: \
+(EC | accessed: May 2021) https://ghsl.jrc.ec.europa.eu/download.php?ds=buS2 \
+\
 Administratif Boundary: \
-(BIG | accessed:2021) https://portal.ina-sdi.or.id/downloadaoi/ \
+(BIG | accessed: May 2021) https://portal.ina-sdi.or.id/downloadaoi/ \
 \
 Administratif Area Extent: \
-(BPS | accessed:2021) https://jateng.bps.go.id/indicator/153/613/1/luas-wilayah-menurut-kabupaten-kota.html \
-(BPS | accessed:2021) https://jatim.bps.go.id/statictable/2019/10/11/1823/luas-wilayah-menurut-kabupaten-kota-di-provinsi-jawa-timur-2017.html \
+(BPS | accessed: May 2021) https://jateng.bps.go.id/indicator/153/613/1/luas-wilayah-menurut-kabupaten-kota.html \
+(BPS | accessed: May 2021) https://jatim.bps.go.id/statictable/2019/10/11/1823/luas-wilayah-menurut-kabupaten-kota-di-provinsi-jawa-timur-2017.html \
 \
 Number of Population: \
-(BPS | accessed:2021) https://jateng.bps.go.id/indicator/12/766/1/jumlah-penduduk-menurut-kabupaten-kota-di-jawa-tengah.html \
-(BPS | accessed:2021) https://jatim.bps.go.id/indicator/12/375/1/jumlah-penduduk-provinsi-jawa-timur.html \
+(BPS | accessed: May 2021) https://jateng.bps.go.id/indicator/12/766/1/jumlah-penduduk-menurut-kabupaten-kota-di-jawa-tengah.html \
+(BPS | accessed: May 2021) https://jatim.bps.go.id/indicator/12/375/1/jumlah-penduduk-provinsi-jawa-timur.html \
 \
 Disease Incidence and Rate: \
-(BPS | accessed:2021) https://jateng.bps.go.id/statictable/2020/07/20/1875/jumlah-kasus-penyakit-menurut-kabupaten-kota-dan-jenis-penyakit-di-provinsi-jawa-tengah-2019.html \
-(BPS | accessed:2021) https://jatim.bps.go.id/statictable/2019/10/09/1674/jumlah-kasus-penyakit-menurut-kabupaten-kota-dan-jenis-penyakit-di-provinsi-jawa-timur-2018-.html \
+(BPS | accessed: May 2021) https://jateng.bps.go.id/statictable/2020/07/20/1875/jumlah-kasus-penyakit-menurut-kabupaten-kota-dan-jenis-penyakit-di-provinsi-jawa-tengah-2019.html \
+(BPS | accessed: May 2021) https://jatim.bps.go.id/statictable/2019/10/09/1674/jumlah-kasus-penyakit-menurut-kabupaten-kota-dan-jenis-penyakit-di-provinsi-jawa-timur-2018-.html \
 \
-Settlement Map: \
-(EC | accessed:2021) https://ghsl.jrc.ec.europa.eu/download.php?ds=buS2
+Note: We cannot have the exact same year for all data. The Settlement Map is based on satellite imagery of 2017-2018 (no other option). The creation year of the Administrative Boundary data is unknown. Other data may have different availability and searchability. To deal with this weakness of data, we conducted several analyzes with several variations of data. For more details, please read the paper.
 
 # Processed Data
 [Satellite Imagery of Central Java](https://drive.google.com/drive/folders/1h-SadcASXQpMA1bZJn9WcIp_Vagn0hy-?usp=sharing) \
@@ -38,10 +40,10 @@ Settlement Map: \
 [Correlation Calculation of East Java](https://docs.google.com/spreadsheets/d/1Ohxnv8PwgMb_r2fc1zwS5nGZNZUghU5QcNq0STtOrzc/edit?usp=sharing) \
 [Correlation Calculation of Central+East Java](https://docs.google.com/spreadsheets/d/1Bva8yi-AfyBZLCyJ_S8Gyq0RGv4BCN8I0OV-XMaknLo/edit?usp=sharing) \
 \
-Note: In our study, we only processed two provinces. We may give more provinces of Java island later, in this repository, to help people conducting research. Feel free to contact me via email: mirza.alim.m@gmail.com.
+Note: In our study, we only processed two provinces. We may give more settlement maps and satellite imageries of other Java provinces later, in this repository, to help people conducting research. You may use our method on a larger medical research or on other research fields. Feel free to contact me via email: mirza.alim.m@gmail.com.
 
 # How to Count Pixels
-An example on how to count image pixels is available [Here](https://github.com/mirzaalimm/PopulationDensityVsDisease/blob/main/Counting%20Pixels.ipynb)
+An example on how to count image pixels is available [Here](https://github.com/mirzaalimm/PopulationDensityVsDisease/blob/main/Counting%20Pixels.ipynb).
 
 # License
 MIT
