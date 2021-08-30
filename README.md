@@ -47,3 +47,9 @@ An example on how to count image pixels is available [Here](https://github.com/m
 
 # License
 MIT
+
+# Citation
+If you are using any component of our work, pleasa cite:
+```
+To be announced...
+```
