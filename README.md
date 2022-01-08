@@ -1,10 +1,9 @@
 # Population Density vs Disease
-This repository contains the resources (raw data and processed data) of our paper\*: \
-M. A. Mutasodirin, R. D. Rizqullah, A. Setiyoko, and A. M. Arymurthy, *"Settlement Mapping for Population Density Modelling in Disease Risk Spatial Analysis"*, 2021. \
-\*Under consideration for presentation at The 6th International Workshop on Big Data and Information Security (IWBIS) 2021.
+This repository contains the resources (raw data and processed data) of our paper: \
+M. A. Mutasodirin, R. D. Rizqullah, A. Setiyoko, and A. M. Arymurthy, *"Settlement Mapping for Population Density Modelling in Disease Risk Spatial Analysis,"* 2021 6th International Workshop on Big Data and Information Security (IWBIS), 2021, pp. 73-80, doi: 10.1109/IWBIS53353.2021.9631853.
 
 # Abstract
-In disease risk spatial analysis, many researchers especially in Indonesia are still modelling population density as the ratio of total population to administrative area extent. This model oversimplifies the problem, because it covers large uninhabited areas, while the model should focus on inhabited areas. This study uses settlement mapping against satellite imagery to focus the model and calculate settlement area extent. As far as our search goes, we did not find any specific studies comparing the use of settlement mapping with administrative area to model population density in computing its correlation to a disease case rate. This study investigates the comparison of both models using data on Tuberculosis (TB) case rate in Central and East Java Indonesia. Our study shows that using administrative area density the Spearman's $\rho$ was considered as "Fair" (0.566, p<0.01) and using settlement density was "Moderately Strong" (0.673, p<0.01). The difference is significant according to Hotelling's t test. By this result we are encouraging researchers to use settlement mapping to improve population density modelling in disease risk spatial analysis. Resources used by and resulting from this work are publicly available at https://github.com/mirzaalimm/PopulationDensityVsDisease.
+In disease risk spatial analysis, many researchers especially in Indonesia are still modelling population density as the ratio of total population to administrative area extent. This model oversimplifies the problem, because it covers large uninhabited areas, while the model should focus on inhabited areas. This study uses settlement mapping against satellite imagery to focus the model and calculate settlement area extent. As far as our search goes, we did not find any specific studies comparing the use of settlement mapping with administrative area to model population density in computing its correlation to a disease case rate. This study investigates the comparison of both models using data on Tuberculosis (TB) case rate in Central and East Java Indonesia. Our study shows that using administrative area density the Spearman's rho was considered as "Fair" (0.566, p<0.01) and using settlement density was "Moderately Strong" (0.673, p<0.01). The difference is significant according to Hotelling's t test. By this result we are encouraging researchers to use settlement mapping to improve population density modelling in disease risk spatial analysis. Resources used by and resulting from this work are publicly available at https://github.com/mirzaalimm/PopulationDensityVsDisease.
 
 # Keywords
 population density, settlement density, settlement map, disease risk, indonesia.
@@ -39,8 +38,6 @@ Note: We cannot have the exact same year for all data. The Settlement Map is bas
 [Correlation Calculation of Central Java](https://docs.google.com/spreadsheets/d/1vXJYdGS_VkDr-l-aVLR8klwmHu66geeJkUEain9LybU/edit?usp=sharing) \
 [Correlation Calculation of East Java](https://docs.google.com/spreadsheets/d/1Ohxnv8PwgMb_r2fc1zwS5nGZNZUghU5QcNq0STtOrzc/edit?usp=sharing) \
 [Correlation Calculation of Central+East Java](https://docs.google.com/spreadsheets/d/1Bva8yi-AfyBZLCyJ_S8Gyq0RGv4BCN8I0OV-XMaknLo/edit?usp=sharing) \
-\
-Note: In our study, we only processed two provinces. We may give more settlement maps and satellite imageries of other Java provinces later, in this repository, to help people conducting research. You may use our method on a larger medical research or on other research fields. Feel free to contact me via email: mirza.alim.m@gmail.com.
 
 # How to Count Pixels
 An example on how to count image pixels is available [Here](https://github.com/mirzaalimm/PopulationDensityVsDisease/blob/main/Counting%20Pixels.ipynb).
@@ -51,5 +48,15 @@ MIT
 # Citation
 If you are using any component of our work, pleasa cite:
 ```
-To be announced...
+@inproceedings{Mutasodirin2021Settlement,
+    author={Mutasodirin, Mirza Alim and Rizqullah, Rafi Dwi and Setiyoko, Andie and Arymurthy, Aniati Murni},
+    booktitle={2021 6th International Workshop on Big Data and Information Security (IWBIS)},
+    title={Settlement Mapping for Population Density Modelling in Disease Risk Spatial Analysis},
+    year={2021},
+    pages={73-80},
+    doi={10.1109/IWBIS53353.2021.9631853}
+}
 ```
+
+# Author's Email Address
+Feel free to contact me via email mirza.alim.m@gmail.com.
