@@ -49,12 +49,15 @@ MIT
 If you are using any component of our work, pleasa cite:
 ```
 @inproceedings{Mutasodirin2021Settlement,
-    author={Mutasodirin, Mirza Alim and Rizqullah, Rafi Dwi and Setiyoko, Andie and Arymurthy, Aniati Murni},
-    booktitle={2021 6th International Workshop on Big Data and Information Security (IWBIS)},
-    title={Settlement Mapping for Population Density Modelling in Disease Risk Spatial Analysis},
-    year={2021},
-    pages={73-80},
-    doi={10.1109/IWBIS53353.2021.9631853}
+    author = {Mirza Alim Mutasodirin and Rafi Dwi Rizqullah and Andie Setiyoko and Aniati Murni Arymurthy},
+    title = {Settlement Mapping for Population Density Modelling in Disease Risk Spatial Analysis},
+    booktitle = {2021 6th International Workshop on Big Data and Information Security ({IWBIS})},
+    publisher = {{IEEE}},
+    year = {2021},
+    month = {oct},
+    pages = {73-80},
+    doi = {10.1109/iwbis53353.2021.9631853},
+    url = {https://doi.org/10.1109/iwbis53353.2021.9631853}
 }
 ```
 
